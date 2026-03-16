@@ -6,12 +6,12 @@ Built interactive Power BI dashboards to analyze credit risk, loan portfolio tre
 The project helps identify key factors influencing loan defaults and supports data-driven lending decisions.
 
 ## Project Objective
-1.Analyze loan portfolio and borrower characteristics.
-2.Identify factors affecting loan default.
-3.Perform exploratory data analysis (EDA).
-4.Detect outliers and patterns in financial data.
-5.Develop a risk scoring model to classify borrowers.
-6.Provide insights for better credit assessment.
+1.Analyze loan portfolio and borrower characteristics.<br>
+2.Identify factors affecting loan default.<br>
+3.Perform exploratory data analysis (EDA).<br>
+4.Detect outliers and patterns in financial data.<br>
+5.Develop a risk scoring model to classify borrowers.<br>
+6.Provide insights for better credit assessment.<br>
 
 ## Dataset
 - <a href="https://github.com/msshiva1120/Loan-Default-Risk-Credit-Assessment-Analytics/blob/main/project.sql">Dataset</a>

@@ -4,3 +4,22 @@ Performed data cleaning, validation, and exploratory data analysis on 255K+ loan
 Developed a Risk Scoring Model to classify borrowers into different risk levels.
 Built interactive Power BI dashboards to analyze credit risk, loan portfolio trends, and customer demographics.
 The project helps identify key factors influencing loan defaults and supports data-driven lending decisions.
+
+## Project Objective
+Analyze loan portfolio and borrower characteristics.
+Identify factors affecting loan default.
+Perform exploratory data analysis (EDA).
+Detect outliers and patterns in financial data.
+Develop a risk scoring model to classify borrowers.
+Provide insights for better credit assessment.
+
+## Dataset
+- <a href="https://github.com/msshiva1120/Loan-Default-Risk-Credit-Assessment-Analytics/blob/main/project.sql">Dataset</a>
+
+
+
+
+
+
+
+

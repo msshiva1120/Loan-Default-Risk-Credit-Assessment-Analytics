@@ -31,13 +31,13 @@ Built interactive Power BI dashboards to analyze loan portfolio performance and 
 
 ## Insights
 1.Most loans are successfully repaid, with only about 11.61% resulting in default, indicating that the
-bank’s lending portfolio is generally stable.
+bank’s lending portfolio is generally stable. <br>
 2.High-risk borrowers contribute to more loan defaults, showing that credit risk segmentation is
-important for identifying risky customers.
-3.Higher Debt-to-Income (DTI) ratios are associated with increased default risk, meaning borrowers with higher financial obligations are more likely to default.
-4.Employment stability influences repayment behavior, as borrowers with stable jobs (full-time) tend to have lower default rates compared to unemployed or part-time borrowers.
+important for identifying risky customers.<br>
+3.Higher Debt-to-Income (DTI) ratios are associated with increased default risk, meaning borrowers with higher financial obligations are more likely to default.<br>
+4.Employment stability influences repayment behavior, as borrowers with stable jobs (full-time) tend to have lower default rates compared to unemployed or part-time borrowers.<br>
 5.Demographic and financial factors such as age, income, credit score, and interest rate significantly
-impact loan default patterns, helping banks make better credit approval decisions
+impact loan default patterns, helping banks make better credit approval decisions<br>
 
 
 
